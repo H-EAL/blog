@@ -1,1 +1,4 @@
-theme: minima
+remote_theme: poole/hyde
+title: 3dverse Devlog
+description: Building a cloud-native real-time 3D engine in C++ & Vulkan
+author: Houssem
